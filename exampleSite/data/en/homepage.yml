@@ -13,15 +13,14 @@ banner:
 about:
   enable: true
   title: Taggingについて
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: ''
   content: |-
     商品管理をスマートに、一つ一つの製品にユニークなIDとバーコード。
     同一の大量生産品ではなく、一点もの製品を大量にコントロールする。
     Taggingは、商品の仕入、販売、管理、バーコードの発行を行うことができるシステムです。
     無料で開始できます。
   image: images/wrapper-img.png
+  funfacts: []
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
