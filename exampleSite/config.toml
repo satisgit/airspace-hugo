@@ -140,7 +140,7 @@ name = "Contact"
 weight = 7
 [Languages.jp]
 contentDir = "content/japanese"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Satis](https://satis-corp.com) All Rights Reserved"
 languageCode = "ja-JP"
 languageName = "Jp"
 weight = 1
@@ -195,10 +195,10 @@ logo = "images/logo.png"
 mobile = "047-427-4878"
 multi_author = false
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "35.700034"
-map_longitude = "139.9916828"
+map_latitude = "35.700060"
+map_longitude = "139.992249"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
