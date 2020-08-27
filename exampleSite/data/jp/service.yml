@@ -36,9 +36,6 @@ service:
   title: 特徴
   description: ''
   service_item:
-  - icon: ion-compose
-    name: 無料で開始できます
-    content: 無料のプランも用意してあります。まずは、無料でお試し下さい。
   - icon: ion-ios-barcode-outline
     name: バーコード
     content: 商品はバーコードで管理できます。<br>業務がスッキリします。
@@ -58,5 +55,8 @@ service:
     name: セキュリティ
     content: AWS(Amazon),Azure(Microsoft)を利用しているので安心です！などと面白い事は言いません。基本的なアプリケーションのセキュリティーに加えて、Firewall,
       IPS/IDS,それに独自に悪意のある攻撃者を特定して常に攻撃から守る仕組みを導入しております。
+  - icon: ion-compose
+    name: 無料で開始できます
+    content: 無料のプランも用意してあります。まずは、無料でお試し下さい。
 cta:
   enable: true
