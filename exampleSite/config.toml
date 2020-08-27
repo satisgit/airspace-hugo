@@ -1,5 +1,5 @@
-baseURL = "http://examplesite.org"
-disableLanguages = ["Fr"]
+baseURL = "https://tagging.jp"
+disableLanguages = ["En", "Fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
