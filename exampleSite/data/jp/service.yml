@@ -36,6 +36,9 @@ service:
   title: 特徴
   description: ''
   service_item:
+  - icon: ion-compose
+    name: 無料で開始できます
+    content: 無料のプランも用意してあります。まずは、無料でお試し下さい。
   - icon: ion-ios-barcode-outline
     name: バーコード
     content: 商品はバーコードで管理できます。<br>業務がスッキリします。
