@@ -149,25 +149,17 @@ URL = "about"
 name = "About"
 weight = 1
 [[Languages.jp.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.jp.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.jp.menu.footer]]
 URL = "pricing"
 name = "Pricing"
-weight = 4
+weight = 2
 [[Languages.jp.menu.footer]]
 URL = "faq"
 name = "FAQ"
-weight = 5
+weight = 3
 [[Languages.jp.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 4
 [[Languages.jp.menu.main]]
 URL = "/"
 name = "Home"
@@ -177,33 +169,17 @@ URL = "about"
 name = "About"
 weight = 2
 [[Languages.jp.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[Languages.jp.menu.main]]
-URL = "service"
-name = "Service"
-weight = 4
-[[Languages.jp.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
-[[Languages.jp.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
+URL = "pricing"
+name = "Pricing"
+weight = 2
 [[Languages.jp.menu.main]]
 URL = "faq"
 name = "FAQ"
-parent = "Pages"
-[[Languages.jp.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+weight = 3
 [[Languages.jp.menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
+weight = 4
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
