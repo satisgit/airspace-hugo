@@ -34,7 +34,7 @@ portfolio:
 
     今までエクセル、アクセスで管理していたらできないことも可能になります。
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
