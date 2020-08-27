@@ -32,11 +32,6 @@ pricing:
     - 集計：可能
     - 権限管理：可能
     - 金額：¥10,000(税抜)
-  - name: ''
-    price: ''
-    content: ''
-    link: ''
-    services: ''
   - name: その他(プリンタ)
     price: 329,000円
     content: タグを印刷するプリンタ
@@ -46,16 +41,6 @@ pricing:
   - name: その他(タグ背面デザイン)
     price: "¥5,000"
     content: タグの裏面に独自の柄やブランド名などを入れる場合のデザイン料。
-    link: ''
-    services: ''
-  - name: その他(タグ 背面デザイン1色)
-    price: "¥30,750〜"
-    content: タグの背面に1色でお好きなデザインを予め印刷したものです。
-    link: ''
-    services: ''
-  - name: その他(リボン)
-    price: "¥10,800"
-    content: タグの印刷に使うリボン 240M x 10巻
     link: ''
     services: ''
 cta:
