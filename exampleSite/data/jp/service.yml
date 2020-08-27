@@ -36,9 +36,6 @@ service:
   title: 特徴
   description: ''
   service_item:
-  - icon: ion-ios-browsers-outline
-    name: OSを問いません
-    content: Webブラウザがあれば直ぐに始められるます。お好きな端末から、余計なダウンロードやインストールなしでタグを印刷出来ます。
   - icon: ion-ios-barcode-outline
     name: バーコード
     content: 商品はバーコードで管理できます。<br>業務がスッキリします。
@@ -61,5 +58,8 @@ service:
   - icon: ion-compose
     name: 無料で開始できます
     content: 無料のプランも用意してあります。まずは、無料でお試し下さい。
+  - icon: ion-ios-browsers-outline
+    name: OSを問いません
+    content: Webブラウザがあれば直ぐに始められるます。お好きな端末から、余計なダウンロードやインストールなしでタグを印刷出来ます。
 cta:
   enable: true
