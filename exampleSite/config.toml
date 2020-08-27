@@ -1,4 +1,5 @@
 baseURL = "https://tagging.jp"
+DefaultContentLanguage = "jp"
 disableLanguages = ["En", "Fr"]
 disqusShortname = ""
 paginate = "4"
