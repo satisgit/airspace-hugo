@@ -36,32 +36,24 @@ service:
   title: 特徴
   description: ''
   service_item:
-  - icon: ion-coffee
+  - icon: ion-ios-barcode-outline
     name: バーコード
     content: 商品はバーコードで管理できます。業務がスッキリします。
-  - icon: ion-compass
+  - icon: ion-ios-pricetag-outline
     name: タグ
     content: 店頭に並べても高級感のあるタグを作ることもできます。タグの背面にデザインを入れることも出来ます。
-  - icon: ion-image
+  - icon: ion-android-folder-open
     name: CSV経由
     content: csvでのインポート・エクスポートが充実しているので今までエクセル・アクセス慣れている方でも直ぐに使えます。
-  - icon: ion-bug
+  - icon: ion-share
     name: 移行
     content: csvでのデータをインポートできるので、今までのデータはそのまま使えます。
-  - icon: ion-headphone
+  - icon: ion-podium
     name: 集計機能
     content: 店舗や商品のジャンル別、スタッフ別での利益や成績を可視化。集計されたデータがcsvでダウンロードできるのでそのままエクセルのolapで分析すれば、様々な切り口でデータを可視化出来ます。
-  - icon: ion-leaf
+  - icon: ion-alert-circled
     name: セキュリティ
     content: AWS(Amazon),Azure(Microsoft)を利用しているので安心です！などと面白い事は言いません。基本的なアプリケーションのセキュリティーに加えて、Firewall,
       IPS/IDS,それに独自に悪意のある攻撃者を特定して常に攻撃から守る仕組みを導入しております。
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
 cta:
   enable: true
