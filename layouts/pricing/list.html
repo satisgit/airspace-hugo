@@ -21,9 +21,9 @@
           <ul>
             {{if .services}}
               {{ range .services }}
+                <li>{{ . | markdownify }}</li>
+              {{ end }}
             {{end}}
-            <li>{{ . | markdownify }}</li>
-            {{ end }}
           </ul>
           <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "buy_now" }}</a>
         </div>
