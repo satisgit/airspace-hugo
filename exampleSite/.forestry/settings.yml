@@ -7,6 +7,11 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
+  path: exampleSite/content/japanese/blog
+  label: Post(jp)
+  create: documents
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
   create: documents
@@ -22,6 +27,11 @@ sections:
   - post
 - type: heading
   label: Author
+- type: directory
+  path: exampleSite/content/japanese/author
+  label: Auther(jp)
+  create: documents
+  match: "**/*"
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
@@ -39,6 +49,11 @@ sections:
 - type: heading
   label: Project
 - type: directory
+  path: exampleSite/content/japanese/project
+  label: Project(jp)
+  create: documents
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/project
   label: Project (en)
   create: documents
@@ -55,6 +70,11 @@ sections:
 - type: heading
   label: Others Pages
 - type: directory
+  path: exampleSite/content/japanese/about
+  label: About(jp)
+  create: none
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/about
   label: About (en)
   create: none
@@ -64,6 +84,11 @@ sections:
   label: About (fr)
   create: none
   match: "*"
+- type: directory
+  path: exampleSite/content/japanese/service
+  label: Service(jp)
+  create: none
+  match: "**/*"
 - type: directory
   path: exampleSite/content/english/service
   label: Service (en)
@@ -75,6 +100,11 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: exampleSite/content/japanese/pricing
+  label: Pricing(jp)
+  create: none
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/pricing
   label: Pricing (en)
   create: none
@@ -85,6 +115,11 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: exampleSite/content/japanese/faq
+  label: FAQ(jp)
+  create: none
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/faq
   label: FAQ (en)
   create: none
@@ -94,6 +129,11 @@ sections:
   label: FAQ (fr)
   create: none
   match: "*"
+- type: directory
+  path: exampleSite/content/japanese/contact
+  label: Contact(jp)
+  create: none
+  match: "**/*"
 - type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
@@ -119,6 +159,11 @@ sections:
   templates:
   - new-page
 - type: directory
+  path: exampleSite/content/japanese
+  label: All Pages(jp)
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english
   label: All Pages (en)
   create: all
@@ -134,6 +179,11 @@ sections:
   - new-page
 - type: heading
   label: Data
+- type: directory
+  path: exampleSite/data/jp
+  label: Data(jp)
+  create: all
+  match: "**/*"
 - type: directory
   path: exampleSite/data/en
   label: Data (en)
