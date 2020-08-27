@@ -1,6 +1,6 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: 値段とサービス
+description: Taggingのサービス一覧
+bg_image: images/featue-bg.jpg
+
 ---
