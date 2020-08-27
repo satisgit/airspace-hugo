@@ -2,7 +2,7 @@
 pricing:
   enable: true
   pricing_table:
-  - name: Lite
+  - name: Litea
     price: 無料
     content: 開業まもない方や、小規模に事業を行っている方
     link: "#"
