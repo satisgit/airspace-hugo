@@ -1,0 +1,59 @@
+---
+about:
+  enable: true
+  title: Creative UX/UI Design Agency
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
+    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
+    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
+    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
+    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
+    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
+    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
+    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
+    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
+    dolore officia adipisci neque!
+  image: images/company/company-group-pic.jpg
+featured_service:
+  enable: true
+  service_item:
+  - name: Interface Design
+    icon: ion-erlenmeyer-flask
+    color: primary
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: Product Branding
+    icon: ion-leaf
+    color: primary-dark
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: Game Development
+    icon: ion-lightbulb
+    color: primary-darker
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+service:
+  enable: true
+  title: 特徴
+  description: ''
+  service_item:
+  - icon: ion-ios-barcode-outline
+    name: バーコード
+    content: 商品はバーコードで管理できます。業務がスッキリします。
+  - icon: ion-ios-pricetag-outline
+    name: タグ
+    content: 店頭に並べても高級感のあるタグを作ることもできます。タグの背面にデザインを入れることも出来ます。
+  - icon: ion-android-folder-open
+    name: CSV経由
+    content: csvでのインポート・エクスポートが充実しているので今までエクセル・アクセス慣れている方でも直ぐに使えます。
+  - icon: ion-share
+    name: 移行
+    content: csvでのデータをインポートできるので、今までのデータはそのまま使えます。
+  - icon: ion-podium
+    name: 集計機能
+    content: 店舗や商品のジャンル別、スタッフ別での利益や成績を可視化。集計されたデータがcsvでダウンロードできるのでそのままエクセルのolapで分析すれば、様々な切り口でデータを可視化出来ます。
+  - icon: ion-alert-circled
+    name: セキュリティ
+    content: AWS(Amazon),Azure(Microsoft)を利用しているので安心です！などと面白い事は言いません。基本的なアプリケーションのセキュリティーに加えて、Firewall,
+      IPS/IDS,それに独自に悪意のある攻撃者を特定して常に攻撃から守る仕組みを導入しております。
+cta:
+  enable: true

@@ -1,0 +1,88 @@
+---
+banner:
+  enable: true
+  bg_image: images/slider-bg.jpg
+  bg_overlay: true
+  title: 商品一つ一つ管理していく
+  content: バーコードとWebで商品を管理
+  button:
+    enable: true
+    label: Discover Our Project
+    link: project
+about:
+  enable: true
+  title: Taggingについて
+  description: ''
+  content: |-
+    商品管理をスマートに、一つ一つの製品にユニークなIDとバーコード。
+    同一の大量生産品ではなく、一点もの製品を大量にコントロールする。
+    Taggingは、商品の仕入、販売、管理、バーコードの発行を行うことができるシステムです。
+    無料で開始できます。
+  image: images/wrapper-img.png
+  funfacts: []
+portfolio:
+  enable: true
+  bg_image: images/featue-bg.jpg
+  title: シンプルにして、ミスを無くす。素早くする。
+  content: |-
+    商品を探す時間を短縮。似てる商品を間違って発送・販売するのを無くす。
+    バーコードとシステムで管理すれば、シンプルな業務。
+
+    売上、利益、在庫なども管理。
+
+    Webシステムなら離れた場所からも管理、閲覧できる。
+
+    今までエクセル、アクセスで管理していたらできないことも可能になります。
+  button:
+    enable: true
+    label: View Works
+    link: project
+service:
+  enable: true
+cta:
+  enable: true
+  bg_image: images/call-to-action-bg.jpg
+  title: 商品一つ一つ管理していく
+  content: バーコードとWebで商品を管理していく
+  button:
+    enable: true
+    label: Tell Us Your Story
+    link: contact
+funfacts:
+  enable: true
+  title: Fun Facts About Us
+  description: "'Far far away, behind the word mountains, far from the countries Vokalia
+    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
+    right at the coast of the Semantics'"
+  funfact_item:
+  - icon: ion-ios-chatboxes-outline
+    name: Cups Of Coffee
+    count: "99"
+  - icon: ion-ios-glasses-outline
+    name: Article Written
+    count: "45"
+  - icon: ion-ios-compose-outline
+    name: Projects Completed
+    count: "125"
+  - icon: ion-ios-timer-outline
+    name: Combined Projects
+    count: "200"
+  testimonial_slider:
+  - name: Raymond Roy
+    image: images/clients/avater-1.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Randi Renin
+    image: images/clients/avater-1.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Rose Rio
+    image: images/clients/avater-3.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
