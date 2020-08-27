@@ -38,7 +38,7 @@ service:
   service_item:
   - icon: ion-ios-barcode-outline
     name: バーコード
-    content: 商品はバーコードで管理できます。業務がスッキリします。
+    content: 商品はバーコードで管理できます。<br>業務がスッキリします。
   - icon: ion-ios-pricetag-outline
     name: タグ
     content: 店頭に並べても高級感のあるタグを作ることもできます。タグの背面にデザインを入れることも出来ます。
