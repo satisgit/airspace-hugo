@@ -185,20 +185,20 @@ unsafe = true
 [outputs]
 home = ["HTML", "RSS"]
 [params]
-author = "Themefisher"
+author = "Satis"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "商品管理,タグ管理,バーコード管理,中古買取"
+email = "satis@satis-corp.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "千葉県船橋市宮本1-7-1 203号"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "047-427-4878"
 multi_author = false
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "35.700034"
+map_longitude = "139.9916828"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
