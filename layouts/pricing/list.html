@@ -19,7 +19,9 @@
             <p>{{ .content | markdownify }}</p>
           </div>
           <ul>
-            {{ range .services }}
+            {{if .services}}
+              {{ range .services }}
+            {{end}}
             <li>{{ . | markdownify }}</li>
             {{ end }}
           </ul>
