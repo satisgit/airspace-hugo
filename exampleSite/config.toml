@@ -1,76 +1,10 @@
 baseURL = "http://examplesite.org"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 title = "Tagging | バーコード商品管理"
-[Languages.jp]
-contentDir = "content/japanese"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "ja-JP"
-languageName = "Jp"
-weight = 1
-[[Languages.jp.menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[Languages.jp.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.jp.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.jp.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.jp.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.jp.menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[Languages.jp.menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[Languages.jp.menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[Languages.jp.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[Languages.jp.menu.main]]
-URL = "service"
-name = "Service"
-weight = 4
-[[Languages.jp.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
-[[Languages.jp.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
-[[Languages.jp.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.jp.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[Languages.jp.menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
@@ -200,6 +134,72 @@ URL = "pricing"
 name = "Tarification"
 parent = "Pages"
 [[Languages.fr.menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 7
+[Languages.jp]
+contentDir = "content/japanese"
+copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+languageCode = "ja-JP"
+languageName = "Jp"
+weight = 1
+[[Languages.jp.menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+[[Languages.jp.menu.footer]]
+URL = "project"
+name = "Project"
+weight = 2
+[[Languages.jp.menu.footer]]
+URL = "service"
+name = "Service"
+weight = 3
+[[Languages.jp.menu.footer]]
+URL = "pricing"
+name = "Pricing"
+weight = 4
+[[Languages.jp.menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 5
+[[Languages.jp.menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[Languages.jp.menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
+[[Languages.jp.menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[Languages.jp.menu.main]]
+URL = "project"
+name = "Project"
+weight = 3
+[[Languages.jp.menu.main]]
+URL = "service"
+name = "Service"
+weight = 4
+[[Languages.jp.menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 5
+[[Languages.jp.menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 6
+[[Languages.jp.menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+[[Languages.jp.menu.main]]
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
+[[Languages.jp.menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 7
