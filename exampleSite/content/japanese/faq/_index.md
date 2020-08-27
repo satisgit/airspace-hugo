@@ -1,62 +1,39 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2020-03-23T13:05:29+06:00
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Frequently Asked Questions
+description: よくある質問
+subtitle: ''
+date: 2020-08-27T16:05:29+09:00
+bg_image: images/featue-bg.jpg
+
 ---
+### 1.無料で使える期間はどれぐらいですか
 
-### Welcome to Airspace!
+期間に制限はございませんので、ずっとお使い下さい。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+#### 2.タグはどのように印刷するのですか
 
-#### 1.Overview
+タグは専用のプリンタで印刷します。タグの用紙も指定の紙でお願いします。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+プリンタは、329,000円となっています。
 
-#### 2. Data We Collect
+タグを印刷しなければ、プリンタ無しでご利用頂けます。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+#### 3.利用するにはどうすればよいですか。
 
-#### 3. How We Use Data
+CONTACT よりご連絡下さい。必要事項を連絡いたしますのでご返信いただければ直ぐに利用可能です。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+#### 4.途中でプランを変更することは可能ですか。
 
-#### 4. How We Disclose Data.
+可能です。ただし、Leadingプランで設定できる権限の情報は消されてしまいますのでご注意下さい。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+5\.利用料金とプリンタ以外にかかる経費はありますか
 
-#### 5. Security
+タグの紙および、リボン代がかかります。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+#### 5.データの移行をしたいのですが。
 
-#### 6. Advertising.
+#### Followingプラン以上ですと、csvでのデータのインポートができます。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
-  
+システムログイン後にcsvの雛形がありますので、現在ご利用のデータをcsvに合わせる形に修正してインポートして下さい。
+
+マスタデータ系に関しては、設定画面よりデータを登録する形になります。
