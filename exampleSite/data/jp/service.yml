@@ -51,7 +51,7 @@ service:
   - icon: ion-podium
     name: 集計機能
     content: 店舗や商品のジャンル別、スタッフ別での利益や成績を可視化。集計されたデータがcsvでダウンロードできるのでそのままエクセルのolapで分析すれば、様々な切り口でデータを可視化出来ます。
-  - icon: ion-alert-circled
+  - icon: ion-fireball
     name: セキュリティ
     content: AWS(Amazon),Azure(Microsoft)を利用しているので安心です！などと面白い事は言いません。基本的なアプリケーションのセキュリティーに加えて、Firewall,
       IPS/IDS,それに独自に悪意のある攻撃者を特定して常に攻撃から守る仕組みを導入しております。
