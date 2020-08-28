@@ -6,7 +6,7 @@ banner:
   title: 商品一つ一つ管理していく
   content: バーコードとWebで商品を管理
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
