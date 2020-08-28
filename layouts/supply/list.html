@@ -4,8 +4,8 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.pricing.pricing.enable }}
-{{ with $data.pricing.pricing }}
+{{ if $data.supply.pricing.enable }}
+{{ with $data.supply.pricing }}
 <section class="pricing-table section bg-gray">
   <div class="container">
     <div class="row">
@@ -37,7 +37,7 @@
 {{ end }}
 
 <!-- Call to action -->
-{{ if $data.pricing.cta.enable }}
+{{ if $data.supply.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->
