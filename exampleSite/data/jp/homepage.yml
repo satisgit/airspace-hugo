@@ -4,7 +4,9 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: 商品一つ一つ管理していく
-  content: バーコードとWebで商品を管理
+  content: |-
+    何みてんだよ！！！
+    バーコードとWebで商品を管理
   button:
     enable: true
     label: Discover Our Project
