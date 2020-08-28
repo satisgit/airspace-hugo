@@ -2,7 +2,12 @@
 pricing:
   enable: true
   pricing_table:
-  - name: タグ用紙
+  - name: ''
+    price: ''
+    content: ''
+    link: ''
+    services: ''
+  - name: タグ用紙(名入れ1色)
     price: "¥30,750〜¥63,000"
     content: 15,000枚〜90,000枚
     link: https://checkout.square.site/buy/4QOYU6QZPNGC6BU3HIAZ6FT4
