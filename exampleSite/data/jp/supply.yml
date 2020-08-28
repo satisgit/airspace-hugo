@@ -2,6 +2,11 @@
 pricing:
   enable: true
   pricing_table:
+  - name: タグ用紙 背面1色独自印刷
+    price: 30,750から
+    content: 15000枚からご用意があります。
+    link: https://checkout.square.site/buy/4QOYU6QZPNGC6BU3HIAZ6FT4
+    services: ''
   - name: リボン
     price: "10800"
     content: 印刷に使うリボンです。240m x 10巻
