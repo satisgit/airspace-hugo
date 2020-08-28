@@ -2,11 +2,14 @@
 pricing:
   enable: true
   pricing_table:
-  - name: ''
-    price: ''
-    content: ''
-    link: ''
-    services: ''
+  - name: タグ用紙(名入れ2色)
+    price: "¥32,250〜¥69,300"
+    content: 15,000枚〜90,000枚
+    link: https://checkout.square.site/buy/4PWCE2LJJND4UWLEHDZG6KND
+    services:
+    - 高級感のあるマットコート
+    - 背面に独自デザイン
+    - 2色
   - name: タグ用紙(名入れ1色)
     price: "¥30,750〜¥63,000"
     content: 15,000枚〜90,000枚
