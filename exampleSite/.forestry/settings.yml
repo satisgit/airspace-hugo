@@ -115,6 +115,21 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: exampleSite/content/japanese/supply
+  label: Supply(jp)
+  create: none
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/english/supply
+  label: Supply(en)
+  create: none
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/french/supply
+  label: Supply(fr)
+  create: none
+  match: "**/*"
+- type: directory
   path: exampleSite/content/japanese/faq
   label: FAQ(jp)
   create: none
