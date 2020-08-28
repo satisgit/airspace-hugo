@@ -180,6 +180,10 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
+[[Languages.jp.menu.main]]
+URL = "supply"
+name = "Supply"
+weight = 5
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
