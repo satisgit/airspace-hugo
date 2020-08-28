@@ -17,7 +17,7 @@ pricing:
     services:
     - 240m x 10巻
   - name: プリンタ
-    price: 329,000円
+    price: "¥329,000"
     content: タグを印刷するプリンタ
     link: https://checkout.square.site/buy/CUWZQETJOKGTDCVAMS4RFOBR
     services:
