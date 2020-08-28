@@ -2,6 +2,11 @@
 pricing:
   enable: true
   pricing_table:
+  - name: リボン
+    price: "10800"
+    content: 印刷に使うリボンです。240m x 10巻
+    link: https://checkout.square.site/buy/62JO3TV56RETPZMYSWZVSF2H
+    services: ''
   - name: プリンタ
     price: 329,000円
     content: タグを印刷するプリンタ
