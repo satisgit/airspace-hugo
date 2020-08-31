@@ -5,7 +5,7 @@ pricing:
   - name: Liteプラン
     price: 無料
     content: 開業まもない方や、小規模に事業を行っている方
-    link: contact
+    link: "/contact"
     services:
     - 1ヶ月の登録商品上限：100件
     - CSVで更新：不可
