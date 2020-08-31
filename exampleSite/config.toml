@@ -221,7 +221,7 @@ link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "plugins/fontawesome/all.css"
+link = "plugins/fontawesome/all.min.css"
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
