@@ -240,8 +240,8 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "fab fa-slack"
-link = "https://join.slack.com/t/thesatis/shared_invite/enQtOTY5MDA4NjY2Njc2LTU4NjllMWUxYzU4MDExYTc3NDI1ZDU4NjE1Njc4MjViZDIzNjM2MjBlZDFiYmJhNTE0MjRlNWQzMTI2YmE5OWM"
-[[params.social]]
 icon = "fab fa-line"
 link = "https://lin.ee/y2ZidQj"
+[[params.social]]
+icon = "fab fa-slack"
+link = "https://join.slack.com/t/thesatis/shared_invite/enQtOTY5MDA4NjY2Njc2LTU4NjllMWUxYzU4MDExYTc3NDI1ZDU4NjE1Njc4MjViZDIzNjM2MjBlZDFiYmJhNTE0MjRlNWQzMTI2YmE5OWM"
