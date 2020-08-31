@@ -15,7 +15,7 @@ pricing:
   - name: Followingプラン
     price: "¥7,000"
     content: 月に100件以上の商品を扱う方
-    link: "#"
+    link: "/contact"
     services:
     - 1ヶ月の登録商品上限：上限無し
     - CSVで更新：可能
@@ -25,7 +25,7 @@ pricing:
   - name: Leadingプラン
     price: "¥10,000"
     content: 正社員、アルバイトなどを雇って大規模に事業を行ってる方
-    link: "#"
+    link: "/contact"
     services:
     - 1ヶ月の登録商品上限：上限無し
     - CSVで更新：可能
