@@ -161,9 +161,13 @@ URL = "supply"
 name = "Supply"
 weight = 4
 [[Languages.jp.menu.footer]]
+URL = "service"
+name = "Tag"
+weight = 5
+[[Languages.jp.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 6
 [[Languages.jp.menu.main]]
 URL = "/"
 name = "Home"
@@ -175,19 +179,23 @@ weight = 2
 [[Languages.jp.menu.main]]
 URL = "pricing"
 name = "Pricing"
-weight = 2
+weight = 3
 [[Languages.jp.menu.main]]
 URL = "faq"
 name = "FAQ"
-weight = 3
+weight = 4
 [[Languages.jp.menu.main]]
 URL = "supply"
 name = "Supply"
-weight = 4
+weight = 5
+[[Languages.jp.menu.main]]
+URL = "service"
+name = "Tag"
+weight = 6
 [[Languages.jp.menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 7
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
