@@ -140,7 +140,7 @@ name = "Contact"
 weight = 7
 [Languages.jp]
 contentDir = "content/japanese"
-copyright = "Copyright &copy; 2020 [Satis](https://satis-corp.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Satis](https://satis-corp.com) All Rights Reserved <br>Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 languageCode = "ja-JP"
 languageName = "Jp"
 weight = 1

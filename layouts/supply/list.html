@@ -17,7 +17,7 @@
     {{$needclose = true}}
     <div class="row">
     {{ end }}
-      <div class="col-md-4 col-sm-6 col-xs-12">
+      <div class="col-md-4 col-xs-12">
         <div class="pricing-item text-center">
           <div class="price-title">
             <h3>{{ .name }}</h3>
@@ -38,12 +38,14 @@
     {{if eq $mod 2}}
     {{ $needclose = false}}
     </div>
+    <br>
     {{ end }}  
 
     {{ end }}
     <!-- end single pricing table -->
     {{if $needclose}}
     </div>
+    <br>
     {{ end }}  
       
     
