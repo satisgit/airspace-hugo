@@ -1,20 +1,15 @@
 ---
 about:
   enable: true
-  title: Creative UX/UI Design Agency
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
-  image: images/company/company-group-pic.jpg
+  title: Tagのデザイン
+  content: |-
+    タグの裏面は自由にデザインできます。
+    店名、ブランド名、ロゴ、などご自由なデザインが可能です。
+
+    また、マットニス加工で光の加減により浮き出るデザインなども可能です。
+  image: images/tag-exmple.jpeg
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Interface Design
     icon: ion-erlenmeyer-flask
@@ -32,7 +27,7 @@ featured_service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
 service:
-  enable: true
+  enable: false
   title: 特徴
   description: ''
   service_item:
@@ -62,4 +57,4 @@ service:
     name: OSを問いません
     content: Webブラウザがあれば直ぐに始められるます。お好きな端末から、余計なダウンロードやインストールなしでタグを印刷出来ます。
 cta:
-  enable: true
+  enable: false
