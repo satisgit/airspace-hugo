@@ -9,14 +9,15 @@
 <section class="pricing-table section bg-gray">
   <div class="container">
     
-      <!-- single pricing table -->
-      {{ range $index, $element := .pricing_table }}
-      {{ $mod := mod $index  3}}
-      {{if eq $mod 0}}
-      <div class="row">
-      {{ end }}
+    <!-- single pricing table -->
+    {{ $needclose := true}}
+    {{ range $index, $element := .pricing_table }}
+    {{ $mod := mod $index 3}}
+    {{if eq $mod 0}}
+    {{$needclose = true}}
+    <div class="row">
+    {{ end }}
       <div class="col-md-4 col-sm-6 col-xs-12">
-        {{mod $index  3}}
         <div class="pricing-item text-center">
           <div class="price-title">
             <h3>{{ .name }}</h3>
@@ -29,15 +30,22 @@
                 <li>{{ . | markdownify }}</li>
               {{ end }}
             {{end}}
+            <!-- end service -->
           </ul>
           <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "buy_now" }}</a>
         </div>
       </div>
-      {{if eq $mod 0}}
-        </div>
+    {{if eq $mod 2}}
+    {{ $needclose = false}}
+    </div>
+    {{ end }}  
+
+    {{ end }}
+    <!-- end single pricing table -->
+      {{if $enddiv}}
+      </div>
       {{ end }}  
-      {{ end }}
-      <!-- end single pricing table -->
+      
     
   </div>
 </section>
