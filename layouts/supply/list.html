@@ -10,13 +10,13 @@
   <div class="container">
     <div class="row">
       <!-- single pricing table -->
-      {{ range .pricing_table }}
+      {{ range $index, $element := .pricing_table }}
       <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="pricing-item text-center">
           <div class="price-title">
             <h3>{{ .name }}</h3>
             <strong class="value">{{ .price }}</strong>
-            <p>{{ .content | markdownify }}</p>
+            <p>{{ $element.content | markdownify }}</p>
           </div>
           <ul>
             {{if .services}}
