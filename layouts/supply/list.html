@@ -11,7 +11,8 @@
     
       <!-- single pricing table -->
       {{ range $index, $element := .pricing_table }}
-      {{if eq (mod $index  3) 0}}
+      {{ $mod := mod $index  3}}
+      {{if eq $mod 0}}
       <div class="row">
       {{ end }}
       <div class="col-md-4 col-sm-6 col-xs-12">
@@ -32,7 +33,7 @@
           <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "buy_now" }}</a>
         </div>
       </div>
-      {{if mod $index  3 eq 0}}
+      {{if eq $mod 0}}
         </div>
       {{ end }}  
       {{ end }}
