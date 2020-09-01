@@ -8,9 +8,12 @@
 {{ with $data.supply.pricing }}
 <section class="pricing-table section bg-gray">
   <div class="container">
-    <div class="row">
+    
       <!-- single pricing table -->
       {{ range $index, $element := .pricing_table }}
+      {{if mod $index  3 eq 0}}
+      <div class="row">
+      {{ end }}
       <div class="col-md-4 col-sm-6 col-xs-12">
         {{mod $index  3}}
         <div class="pricing-item text-center">
@@ -29,9 +32,12 @@
           <a class="btn btn-small" href="{{ .link | safeURL }}">{{ i18n "buy_now" }}</a>
         </div>
       </div>
+      {{if mod $index  3 eq 0}}
+        </div>
+      {{ end }}  
       {{ end }}
       <!-- end single pricing table -->
-    </div>
+    
   </div>
 </section>
 {{ end }}
