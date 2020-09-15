@@ -16,7 +16,7 @@ bg_image: images/featue-bg.jpg
 
 Windows / Mac / iOS / Android それぞれ対応してます。
 
-どのブラウザでも利用出来ますが、印刷可能なのは以下の通りです。
+どのブラウザでも利用出来ますが、タグを印刷可能なのは以下の通りです。
 
 ##### Windows
 
