@@ -18,15 +18,16 @@ Windows / Mac / iOS / Android それぞれ対応してます。
 
 どのブラウザでも利用出来ますが、印刷可能なのは以下の通りです。
 
-* Windows
-  * chrome
-  * firefox
-  * edge
-* Mac
-  * chrome
-  * firefox
+##### Windows
 
-iOS / Android は印刷に対応してません。
+1. chrome
+2. firefox
+3. edge
+
+##### Mac
+
+1. chrome
+2. firefox
 
 #### 3.タグはどのように印刷するのですか
 
