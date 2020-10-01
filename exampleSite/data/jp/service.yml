@@ -36,7 +36,7 @@ service:
     content: 商品はバーコードで管理できます。<br>業務がスッキリします。
   - icon: ion-ios-pricetag-outline
     name: タグ
-    content: 店頭に並べれて高級感を上げる事が出来るタグを作レます。タグの背面にオリジナルのデザインを入れることも出来ます。
+    content: 高級感のあるタグを作れます。タグの背面にオリジナルのデザインを入れることも出来ます。
   - icon: ion-android-folder-open
     name: CSV経由
     content: csvでのインポート/エクスポートが充実しています。エクセル・アクセス慣れている方でも直ぐに使えます。
