@@ -1,6 +1,6 @@
 ---
 title: Tag
 description: Tagのデザイン
-bg_image: images/featue-bg.jpg
+bg_image: images/tag-bg1.jpg
 
 ---
