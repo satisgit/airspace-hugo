@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 description: よくある質問
 subtitle: ''
 date: 2020-08-27T16:05:29.000+09:00
-bg_image: images/featue-bg.jpg
+bg_image: images/fac-bg1.jpg
 
 ---
 #### 1.無料で使える期間はどれぐらいですか
