@@ -6,8 +6,8 @@ ec:
   content: ''
   button:
     enable: true
-    label: 運営会社のHP
-    link: https://satis-corp.com
+    label: ごえん株式会社
+    link: https://
   funfacts: []
 features:
   enable: false
