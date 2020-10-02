@@ -40,7 +40,7 @@ portfolio:
 service:
   enable: true
 cta:
-  enable: false
+  enable: true
   bg_image: images/call-to-action-bg.jpg
   title: 商品一つ一つ管理していく
   content: バーコードとWebで商品を管理していく
