@@ -196,6 +196,10 @@ weight = 6
 URL = "contact"
 name = "Contact"
 weight = 7
+[[Languages.jp.menu.main]]
+URL = "ec"
+name = "EC"
+weight = 8
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
