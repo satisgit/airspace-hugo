@@ -3,7 +3,10 @@ ec:
   enable: true
   image: images/logo_mono_goen.svg
   title: ECサイト構築<br>商品の管理委託
-  content: ''
+  content: |-
+    Taggingを導入して商品管理を行いECは外部に委託したい。
+    その場合もご相談下さい。
+    弊社と提携している「ごえん」のサービスをお使い頂ければ、商品の管理とECでの出品と管理についての悩みは解決します。
   button:
     enable: true
     label: ごえん株式会社
