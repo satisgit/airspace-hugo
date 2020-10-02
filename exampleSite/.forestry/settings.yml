@@ -160,6 +160,21 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: exampleSite/content/japanese/ec
+  label: EC(jp)
+  create: documents
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/english/supply
+  label: EC(en)
+  create: documents
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/french/supply
+  label: EC(fr)
+  create: documents
+  match: "**/*"
+- type: directory
   path: exampleSite/content/english/pages
   label: Created Pages (en)
   create: documents
