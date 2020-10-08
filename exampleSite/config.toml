@@ -161,7 +161,7 @@ URL = "https://tagging.jp/supply"
 name = "Supply"
 weight = 4
 [[Languages.jp.menu.footer]]
-URL = "service"
+URL = "https://tagging.jp/service"
 name = "Tag"
 weight = 5
 [[Languages.jp.menu.footer]]
@@ -169,7 +169,7 @@ URL = "https://tagging.netlify.app/contact/"
 name = "Contact"
 weight = 6
 [[Languages.jp.menu.main]]
-URL = "/"
+URL = "https://tagging.jp/"
 name = "Home"
 weight = 1
 [[Languages.jp.menu.main]]
