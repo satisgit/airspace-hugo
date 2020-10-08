@@ -145,7 +145,7 @@ languageCode = "ja-JP"
 languageName = "Jp"
 weight = 1
 [[Languages.jp.menu.footer]]
-URL = "about"
+URL = "https://tagging.jp/about"
 name = "About"
 weight = 1
 [[Languages.jp.menu.footer]]
