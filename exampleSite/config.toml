@@ -193,7 +193,7 @@ URL = "service"
 name = "Tag"
 weight = 6
 [[Languages.jp.menu.main]]
-URL = "contact"
+URL = "https://tagging.netlify.app/contact/"
 name = "Contact"
 weight = 7
 [[Languages.jp.menu.main]]
