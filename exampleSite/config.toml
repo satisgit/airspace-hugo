@@ -149,11 +149,11 @@ URL = "https://tagging.jp/about"
 name = "About"
 weight = 1
 [[Languages.jp.menu.footer]]
-URL = "pricing"
+URL = "https://tagging.jp/pricing"
 name = "Pricing"
 weight = 2
 [[Languages.jp.menu.footer]]
-URL = "faq"
+URL = "https://tagging.jp/faq"
 name = "FAQ"
 weight = 3
 [[Languages.jp.menu.footer]]
