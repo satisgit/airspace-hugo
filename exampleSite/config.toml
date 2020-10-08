@@ -157,7 +157,7 @@ URL = "https://tagging.jp/faq"
 name = "FAQ"
 weight = 3
 [[Languages.jp.menu.footer]]
-URL = "supply"
+URL = "https://tagging.jp/supply"
 name = "Supply"
 weight = 4
 [[Languages.jp.menu.footer]]
