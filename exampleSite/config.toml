@@ -165,7 +165,7 @@ URL = "service"
 name = "Tag"
 weight = 5
 [[Languages.jp.menu.footer]]
-URL = "contact"
+URL = "https://tagging.netlify.app/contact/"
 name = "Contact"
 weight = 6
 [[Languages.jp.menu.main]]
@@ -257,6 +257,5 @@ link = "https://lin.ee/y2ZidQj"
 [[params.social]]
 icon = "fab fa-slack"
 link = "https://join.slack.com/t/thesatis/shared_invite/enQtOTY5MDA4NjY2Njc2LTU4NjllMWUxYzU4MDExYTc3NDI1ZDU4NjE1Njc4MjViZDIzNjM2MjBlZDFiYmJhNTE0MjRlNWQzMTI2YmE5OWM"
-
 [services.googleAnalytics]
 id = "UA-82065033-4"
