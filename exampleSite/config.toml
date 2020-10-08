@@ -197,7 +197,7 @@ URL = "https://tagging.netlify.app/contact/"
 name = "Contact"
 weight = 7
 [[Languages.jp.menu.main]]
-URL = "ec"
+URL = "https://tagging.jp/ec"
 name = "EC"
 weight = 8
 [markup.goldmark.renderer]
